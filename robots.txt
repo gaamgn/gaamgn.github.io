@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaamgn.github.io/gXy/sitemap.gXy.gz
